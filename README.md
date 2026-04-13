@@ -9,7 +9,7 @@
 
 # 🙋‍♂️ About Me
 
-- 🎓 B.Tech Student (3rd Semester)  
+- 🎓 B.Tech Student (3rd year)  
 - 💻 Currently learning **Data Structures & Algorithms in Java**  
 - 🚀 Preparing for **Software Development Placements**  
 - 🌱 Learning **Full Stack Development & Cloud**  
