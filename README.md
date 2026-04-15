@@ -56,7 +56,6 @@
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Shivang-Namdeo-12&theme=react-dark)
-
 ---
 
 # ✍️ Random Dev Quote
