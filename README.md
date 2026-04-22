@@ -7,6 +7,7 @@
 
 ---
 
+
 # 🙋‍♂️ About Me
 
 - 🎓 B.Tech Student (3rd year)  
@@ -16,6 +17,7 @@
 - ⚡ Fun fact: I love solving coding problems and improving logic
 
 ---
+
 
 # 🌐 Socials
 
