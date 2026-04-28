@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivang Namdeo</h1>
+
 <h3 align="center">💻 B.Tech Student | Java Developer | DSA Learner</h3>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Java+Developer;DSA+Enthusiast;Learning+Full+Stack+Development;Future+Software+Engineer" />
